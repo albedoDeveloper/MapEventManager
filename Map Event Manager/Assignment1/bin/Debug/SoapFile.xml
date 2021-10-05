@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BODY>
+  <Event>
+    <eventid>0</eventid>
+    <Name>George</Name>
+    <Type>tweet</Type>
+    <Data>George went to market</Data>
+    <Location>
+      <lat>-31.945461955532906</lat>
+      <long>115.83126068115234</long>
+    </Location>
+    <Start-time>15/09/2021 1:04:18 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>1</eventid>
+    <Name>Planet Experience</Name>
+    <Type>video</Type>
+    <Data>./testVideo.mp4</Data>
+    <Location>
+      <lat>-32.014189455182873</lat>
+      <long>115.90061187744141</long>
+    </Location>
+    <Start-time>17/09/2021 3:12:20 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>2</eventid>
+    <Name>Fun time in Mirabooka</Name>
+    <Type>facebook status</Type>
+    <Data>Had fun in Mirabooka</Data>
+    <Location>
+      <lat>-31.848107162365324</lat>
+      <long>115.87177276611328</long>
+    </Location>
+    <Start-time>17/09/2021 10:26:52 AM</Start-time>
+  </Event>
+  <Event>
+    <eventid>3</eventid>
+    <Name>George went to market</Name>
+    <Type>tweet</Type>
+    <Data>George went to market2</Data>
+    <Location>
+      <lat>-31.960027163496505</lat>
+      <long>115.91022491455078</long>
+    </Location>
+    <Start-time>17/09/2021 11:02:00 AM</Start-time>
+  </Event>
+  <Event>
+    <eventid>4</eventid>
+    <Name>wow test image!</Name>
+    <Type>image</Type>
+    <Data>./test-image.jpg</Data>
+    <Location>
+      <lat>-31.921278612494277</lat>
+      <long>115.87520599365234</long>
+    </Location>
+    <Start-time>17/09/2021 8:04:13 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>5</eventid>
+    <Name>GPX Test</Name>
+    <Type>gpx</Type>
+    <Data>This is a test for GPX</Data>
+    <Location>
+      <lat>-31.958570746627416</lat>
+      <long>115.81306457519531</long>
+    </Location>
+    <Start-time>17/09/2021 8:53:17 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>6</eventid>
+    <Name>Dayton trip</Name>
+    <Type>image</Type>
+    <Data>./RedTest.png</Data>
+    <Location>
+      <lat>-31.860355039794513</lat>
+      <long>115.97373962402344</long>
+    </Location>
+    <Start-time>17/09/2021 9:01:32 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>7</eventid>
+    <Name>Whiteman Park</Name>
+    <Type>tweet</Type>
+    <Data>Went to whiteman park today!</Data>
+    <Location>
+      <lat>-31.833815916214292</lat>
+      <long>115.94043731689453</long>
+    </Location>
+    <Start-time>17/09/2021 9:02:00 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>8</eventid>
+    <Name>North Adventure</Name>
+    <Type>facebook status</Type>
+    <Data>Continuing my adventure north!</Data>
+    <Location>
+      <lat>-31.804351467019018</lat>
+      <long>115.85048675537109</long>
+    </Location>
+    <Start-time>17/09/2021 9:02:27 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>9</eventid>
+    <Name>Internet Speed is great here!</Name>
+    <Type>video</Type>
+    <Data>./internetvideo.mp4</Data>
+    <Location>
+      <lat>-31.792971589733</lat>
+      <long>115.77323913574219</long>
+    </Location>
+    <Start-time>17/09/2021 9:08:49 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>10</eventid>
+    <Name>Great Views</Name>
+    <Type>tweet</Type>
+    <Data>#Beautiful Ocean views!</Data>
+    <Location>
+      <lat>-31.7629103058041</lat>
+      <long>115.73719024658203</long>
+    </Location>
+    <Start-time>17/09/2021 9:09:37 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>11</eventid>
+    <Name>Moving east</Name>
+    <Type>facebook status</Type>
+    <Data>Heading out east!</Data>
+    <Location>
+      <lat>-31.752109207153794</lat>
+      <long>115.80448150634766</long>
+    </Location>
+    <Start-time>17/09/2021 9:10:23 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>12</eventid>
+    <Name>All the way to joondalup!</Name>
+    <Type>tweet</Type>
+    <Data>Wow Joondalup looks amazing this time of year!</Data>
+    <Location>
+      <lat>-31.730503229284352</lat>
+      <long>115.76431274414063</long>
+    </Location>
+    <Start-time>17/09/2021 9:15:56 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>13</eventid>
+    <Name>Boat Event!</Name>
+    <Type>video</Type>
+    <Data>./boat.mp4</Data>
+    <Location>
+      <lat>-31.753276954256592</lat>
+      <long>115.72551727294922</long>
+    </Location>
+    <Start-time>17/09/2021 9:17:06 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>14</eventid>
+    <Name>On my way home</Name>
+    <Type>facebook status</Type>
+    <Data>Taking the beach scenic route home!</Data>
+    <Location>
+      <lat>-31.804351467019018</lat>
+      <long>115.73101043701172</long>
+    </Location>
+    <Start-time>17/09/2021 9:18:17 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>15</eventid>
+    <Name>Old stomping ground!</Name>
+    <Type>facebook status</Type>
+    <Data>I used to live here, should I see my old house?</Data>
+    <Location>
+      <lat>-31.831774128919847</lat>
+      <long>115.74783325195313</long>
+    </Location>
+    <Start-time>17/09/2021 9:19:23 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>16</eventid>
+    <Name>Warning drill alert!</Name>
+    <Type>image</Type>
+    <Data>./TriangleTest.png</Data>
+    <Location>
+      <lat>-31.872892847840689</lat>
+      <long>115.75778961181641</long>
+    </Location>
+    <Start-time>17/09/2021 9:19:46 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>17</eventid>
+    <Name>Keep going?</Name>
+    <Type>tweet</Type>
+    <Data>Wow back near home again, may continue south</Data>
+    <Location>
+      <lat>-31.904375633517787</lat>
+      <long>115.75984954833984</long>
+    </Location>
+    <Start-time>17/09/2021 9:22:03 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>18</eventid>
+    <Name>Even further south?</Name>
+    <Type>facebook status</Type>
+    <Data>Might keep going to mosmon park!</Data>
+    <Location>
+      <lat>-31.959735881970445</lat>
+      <long>115.762939453125</long>
+    </Location>
+    <Start-time>18/09/2021 9:22:36 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>19</eventid>
+    <Name>Cottesloe coffee</Name>
+    <Type>tweet</Type>
+    <Data>Cottesloe coffee is some of the best on the planet!</Data>
+    <Location>
+      <lat>-32.002544349739068</lat>
+      <long>115.75813293457031</long>
+    </Location>
+    <Start-time>18/09/2021 9:23:10 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>20</eventid>
+    <Name>Heading into fremantle</Name>
+    <Type>tweet</Type>
+    <Data>Heading into fremantle, maybe now i should head back</Data>
+    <Location>
+      <lat>-32.030490117049339</lat>
+      <long>115.75332641601563</long>
+    </Location>
+    <Start-time>18/09/2021 9:23:34 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>21</eventid>
+    <Name>Gonna stay longer</Name>
+    <Type>tweet</Type>
+    <Data>Nevermind, guess ill stay longer</Data>
+    <Location>
+      <lat>-32.056099581782988</lat>
+      <long>115.75538635253906</long>
+    </Location>
+    <Start-time>18/09/2021 9:23:51 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>22</eventid>
+    <Name>The end!</Name>
+    <Type>facebook status</Type>
+    <Data>Party all night!</Data>
+    <Location>
+      <lat>-32.061046038925511</lat>
+      <long>115.75572967529297</long>
+    </Location>
+    <Start-time>19/09/2021 9:24:12 PM</Start-time>
+  </Event>
+</BODY>

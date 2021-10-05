@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BODY>
+  <Event>
+    <eventid>0</eventid>
+    <Name>George</Name>
+    <Type>tweet</Type>
+    <Data>George went to market</Data>
+    <Location>
+      <lat>-31.945461955532906</lat>
+      <long>115.83126068115234</long>
+    </Location>
+    <Start-time>15/09/2021 1:04:18 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>1</eventid>
+    <Name>Planet Experience</Name>
+    <Type>video</Type>
+    <Data>C:\Users\Kye\Documents\Year 4 Semester 2\ICT365\Assignment1\Assignment1\testVideo.mp4</Data>
+    <Location>
+      <lat>-32.014189455182873</lat>
+      <long>115.90061187744141</long>
+    </Location>
+    <Start-time>16/09/2021 3:12:20 PM</Start-time>
+  </Event>
+  <Event>
+    <eventid>2</eventid>
+    <Name>Fun time in Mirabooka</Name>
+    <Type>facebook status</Type>
+    <Data>Had fun in Mirabooka</Data>
+    <Location>
+      <lat>-31.848107162365324</lat>
+      <long>115.87177276611328</long>
+    </Location>
+    <Start-time>17/09/2021 10:26:52 AM</Start-time>
+  </Event>
+  <Event>
+    <eventid>3</eventid>
+    <Name>George went to market</Name>
+    <Type>tweet</Type>
+    <Data>George went to market2</Data>
+    <Location>
+      <lat>-31.960027163496505</lat>
+      <long>115.91022491455078</long>
+    </Location>
+    <Start-time>17/09/2021 11:02:00 AM</Start-time>
+  </Event>
+</BODY>
